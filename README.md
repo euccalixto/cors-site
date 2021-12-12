@@ -4,6 +4,7 @@
 - jquery (we used: yarn add jquery)
 - database: database/coronaN.sql
 - connection.php
+- The project is in a folder called "TCC"
 
 ## exemple of connection.php
 
