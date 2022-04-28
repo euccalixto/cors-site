@@ -37,3 +37,7 @@
 
 ?>
 ```
+
+## Programmers
+- Me (front-end).
+- @brunoabunai (back-end).
